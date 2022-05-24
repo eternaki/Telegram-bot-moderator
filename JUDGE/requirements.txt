@@ -1,0 +1,7 @@
+aiogram
+asyncio
+aioschedule
+psutil
+easydict
+bs4
+requests
